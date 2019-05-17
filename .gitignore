@@ -1,3 +1,5 @@
 /app/etc/local.xml
 /nbproject/private/
 /nbproject/
+/var/session/
+/var/cache/
